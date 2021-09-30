@@ -2,6 +2,7 @@
 
 - 🏠 Location: Kiev, Ukraine
 - 💻 4+ Years Experience in Front-end Development
+- 📕 Always learning new things
 - ⚡ Fun fact: This item is just to make the list longer
 
 ---
@@ -32,15 +33,30 @@
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 
 ---
+### 📘 My open source projects
+
+<a href="https://github.com/yurayarosh/generator-front-starter-kit"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yurayarosh&repo=generator-front-starter-kit&theme=blue-green" alt="generator-front-starter-kit"></a>
+<a href="https://github.com/yurayarosh/popup-simple"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yurayarosh&repo=popup-simple&theme=blue-green" alt="popup-simple"></a>
+<a href="https://github.com/yurayarosh/select-custom"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yurayarosh&repo=select-custom&theme=blue-green" alt="select-custom"></a>
+<a href="https://github.com/yurayarosh/fullpage-pagination"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yurayarosh&repo=fullpage-pagination&theme=blue-green" alt="fullpage-pagination"></a>
+<a href="https://github.com/yurayarosh/js-anim"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yurayarosh&repo=js-anim&theme=blue-green" alt="js-anim"></a>
+<a href="https://github.com/yurayarosh/swipelistener-js"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yurayarosh&repo=swipelistener-js&theme=blue-green" alt="swipelistener-js"></a>
+
+---
 ### ⚙️ GitHub Analytics
 
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yurayarosh&theme=blue-green" alt="Github stats" />
+      <img align="left" alt="Github stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=yurayarosh&show_icons=true&count_private=true&theme=blue-green" />
     </td>
     <td>
       <img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yurayarosh&theme=blue-green&layout=compact" />
     </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img alt="Github Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yurayarosh&bg_color=040f0f&color=0cf574&line=2f97c1&point=f5b700&hide_border=true" />
+    </td> 
   </tr>
 </table>
