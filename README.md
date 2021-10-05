@@ -9,7 +9,6 @@
 ### 💻 Tech Stack:
 
 <img alt="html5" src="https://img.shields.io/badge/html-E34F26?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
-<img alt="pug" src="https://img.shields.io/badge/pug-A86454?&style=for-the-badge&logo=pug&logoColor=fff" />&nbsp;
 <img alt="nunjucks" src="https://img.shields.io/badge/nunjucks-3d8137?&style=for-the-badge&logoColor=fff" />&nbsp;
 <img alt="css3" src="https://img.shields.io/badge/css-1572B6?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
 <img alt="sass" src="https://img.shields.io/badge/sass-CF649A?&style=for-the-badge&logo=sass&logoColor=fff" />&nbsp;
