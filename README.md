@@ -37,6 +37,7 @@
 
 <a href="https://github.com/yurayarosh/generator-front-starter-kit"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yurayarosh&repo=generator-front-starter-kit&theme=blue-green" alt="generator-front-starter-kit"></a>
 <a href="https://github.com/yurayarosh/popup-simple"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yurayarosh&repo=popup-simple&theme=blue-green" alt="popup-simple"></a>
+<a href="https://github.com/yurayarosh/gulp-gtm-plugin"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yurayarosh&repo=gulp-gtm-plugin&theme=blue-green" alt="gulp-gtm-plugin"></a>
 <a href="https://github.com/yurayarosh/select-custom"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yurayarosh&repo=select-custom&theme=blue-green" alt="select-custom"></a>
 <a href="https://github.com/yurayarosh/fullpage-pagination"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yurayarosh&repo=fullpage-pagination&theme=blue-green" alt="fullpage-pagination"></a>
 <a href="https://github.com/yurayarosh/js-anim"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yurayarosh&repo=js-anim&theme=blue-green" alt="js-anim"></a>
