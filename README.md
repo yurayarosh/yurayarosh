@@ -3,7 +3,6 @@
 - 🏠 Location: Kiev, Ukraine
 - 💻 4+ Years Experience in Front-end Development
 - 📕 Always learning new things
-- ⚡ Fun fact: This item is just to make the list longer
 
 ---
 ### 💻 Tech Stack:
